@@ -1,2 +1,2 @@
 # data_science_newbie
-Here are just some practicing code for data analysis in Python.
+Just some coding practices for data analysis in Python.
